@@ -8,7 +8,7 @@ dataSources:
     name: ConverterRegistryContract
     network: rinkeby
     source:
-      address: "0x0ddff327ddf7fe838e3e63d02001ef23ad1ede8e"
+      address: "0x9EfA68407F3b92bd2a4AeC6121B14806672c2127"
       abi: ConverterRegistryContract
     mapping:
       kind: ethereum/events
